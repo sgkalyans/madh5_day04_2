@@ -1,2 +1,5 @@
 .idea
-bower_components
+platforms/*
+!platforms/platforms.json
+plugins/*
+!plugins/android.json
